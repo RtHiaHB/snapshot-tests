@@ -1,0 +1,49 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders a snapshot 1`] = `
+<div>
+  <div
+    className="card"
+    style={
+      Object {
+        "width": "20rem",
+      }
+    }
+  >
+    <img
+      className="card-img-top"
+      src="https://avatars.githubusercontent.com/u/4576650?v=4"
+    />
+    <div
+      className="card-body"
+    >
+      <div
+        className="card-title h5"
+        style={
+          Object {
+            "color": "black",
+          }
+        }
+      >
+        Thomas Davidson
+      </div>
+      <a
+        className="card-link"
+        href="https://github.com/RtHiaHB"
+      >
+        Tom's GitHub Profile
+      </a>
+      <p
+        className="card-text"
+        style={
+          Object {
+            "color": "black",
+          }
+        }
+      >
+        I once shot an elephant in my pajamas.  How he got in my pajamas, I don't know.
+      </p>
+    </div>
+  </div>
+</div>
+`;
